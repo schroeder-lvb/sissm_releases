@@ -2,7 +2,7 @@
 
 Simple Insurgency Sandstorm Server Manager - SISSM
 Quick Start Guide for SISSM
-JS Schroeder -- last updated:  2019.09.05
+
 ===============================
 
 For source, description and documentation of SISSM, visit:
@@ -36,7 +36,7 @@ Windows -
 
 NOTE: If you are hosting multiple server instances *FROM THE SAME INSTALL FOLDER* you
 must specify unique log file for each.  Do this by changing "-log" with e.g., "-log=server1.log",
-creating s server1.log file instead of Insurgency.log.  This applies to "Sandstorm Admin
+creating server1.log file instead of Insurgency.log.  This applies to "Sandstorm Admin
 Wrapper (SAW)" users hosting more than one instance of the game.
 
 
